@@ -1,2 +1,2 @@
 # ChatGPT-VA
-Streamlit ChatGPT-3 VA 
+ChatGPT-3 VA 
